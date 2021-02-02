@@ -162,10 +162,65 @@ Das direkte Objekt wird meistens als Dativ übersetzt. Es wird **mit** Präposit
 
 
 # Adjektive
+Adjektive
+Adjektive werden wie im Deutschen an das Bezugswort angepasst:
+
+| - |  Singular  |  Plural |
+|---|---|---|
+| Maskulin  |  -  |  s |
+| Feminin  |  e  |  es |
+
+Bei Adjektiven die schon auf -s enden, wird beim Maskulin kein extra -s angehängt, im Feminin aber ein -es. Manche unregelmässige Adjektive werden anders angepasst.
+Adjektive stehen entweder vor oder nach dem Bezugswort. Die meisten Adjektive sind nachgestellt ausser z.B.:
+
+petit; grand; bon; mauvais; premiére; dernier; joli; autre; jeune; long
+
+## Komparativ / Superlativ
+Der Komparativ wird mit plus/moins/aussi + Adjektiv + que gebildet. Das Adjektiv steht in der Deklinierten Form.
+
+Der Superlativ wird mit le plus / le moins + Adjektiv gebildet. Das Adjektiv steht in der Deklinierten Form.
+
+Ausnahmen:
+
+|  |  |  |
+|---|---|---|
+|bon|meilleur|le meilleur|
+|mauvais|pire|le pire|
+|petit (wenig)|moindre|le moindre|
+|aber: petit (klein)|plus petit|le plus petit|
+
 
 # Adverbien
 
+Generell wird ein Adverb aus der weiblichen Form des Adjektivs + -ment gebildet. Ausnahmen:
+
+Wenn Adjektiv auf einen Vokal endet, männliche Form + -ment!  
+Ausnahmen: fou -> follement; gai -> gaiement!
+
+Wenn es auf –ent / -ant endet, wird es zu –emment / -amment!  
+Gentil -> gentiment  
+bon -> bien  
+mauvais -> mal
+
+## Komparativ / Superlativ
+Der Komparativ wird mit plus/moins/aussi + Adverb + que gebildet.
+
+Der Superlativ wird mit le plus / le moins + Adverb gebildet.
+
+Ausnahmen:
+
+||||
+|--- |--- |--- |
+|bien|mieux/aussi bien/moins bien|le mieux/le moins bien|
+|mal|plus mal/aussi mal/moins mal|le plus mal/le moins mal|
+|beaucoup|plus/autant/moins|le plus|
+|peu|moins/autant/plus|le moins|
+
+
 # Pronomen
+
+
+
 
 # Satz
 
@@ -179,10 +234,28 @@ Das direkte Objekt wird meistens als Dativ übersetzt. Es wird **mit** Präposit
 | mixed | Si + plus-que-parfait | conditionnel présent | war unmöglich -> jetzt Effekt |
 
 
-## Inversionsfrage
-
 ## Indirekte Rede
 
+### Präsens
+
+Aussagesätze werden mit einem Einleitesatz + que + das Erzählte gebildet. Dabei bleibt die Zeitform gleich.
+Man muss Ort und Person entsprechend anpassen.
+
+Befehle werden mit de + infinitiv gebildet.
+
+Bei Fragen wird das Fragezeichen zu einem Punkt. Aus Qu'est-ce que/qui wird ce que/qui.
+
+
+### Vergangenheit
+
+Wenn der Einleitesatz in der Vergangenheit steht, muss die indirekte Rede in einer anderen Zeitform gesetzt werden.
+Das sind die Umwandlungen. (Rede -> Indirekte Rede)
+
+* présent -> imparfait
+* imparfait -> imparfait
+* passé composé -> plus-que-parfait
+* plus-que-parfait -> plus-que-parfait
+* futur simple -> conditionnel présent
 
 
 ## Gérondif
@@ -210,3 +283,4 @@ Das participe présent wird jedoch verwendet, um folgendes auszudrücken:
 # Todo:
 
 * Subjonctif vs Indikativ
+* Alle Pronomen
