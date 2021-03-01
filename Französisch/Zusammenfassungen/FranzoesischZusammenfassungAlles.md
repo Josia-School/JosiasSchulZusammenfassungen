@@ -284,3 +284,5 @@ Das participe présent wird jedoch verwendet, um folgendes auszudrücken:
 
 * Subjonctif vs Indikativ
 * Alle Pronomen
+* Verneinungen
+* Futur simple
