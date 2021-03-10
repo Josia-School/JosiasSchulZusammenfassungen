@@ -45,6 +45,55 @@ Wenn man das passé composé mit être bildet, wird das participe passé dem Sub
 Wenn es ein direktes Objekt gibt, wird das participe passé dem direktem Objekt angeglichen.
 
 
+### Passé simple
+
+Das Passé simple wird vor allem im Schriftlichen benutzt.
+Es wird in den gleichen Fällen wie das passé composé verwendet, ist einfach ein wenig formaler.
+
+Bei der Bildung, muss man auf die Endung des Infinitiv achten:
+
+* -er
+
+|    |   1.  |  2.  |   3.   |
+|----|:-----:|:----:|:------:|
+| Sg |  -ai | -as |  -a  |
+| Pl | -âmes | -âtes | -èrent |
+
+* -ir / -re
+
+|    |   1.  |  2.  |   3.   |
+|----|:-----:|:----:|:------:|
+| Sg |  -is | -is |  -it  |
+| Pl | -îmes | -îtes | -irent |
+
+Ausnahmen:
+
+* avoir
+
+|    |   1.  |  2.  |   3.   |
+|----|:-----:|:----:|:------:|
+| Sg |  eus | eus |  eut  |
+| Pl | eûmes | eûtes | eurent |
+
+* etre
+
+|    |   1.  |  2.  |   3.   |
+|----|:-----:|:----:|:------:|
+| Sg |  fus | fus |  fut  |
+| Pl | fûmes | fûtes | furent |
+
+* venir / tenir
+
+|    |   1.  |  2.  |   3.   |
+|----|:-----:|:----:|:------:|
+| Sg |  vins / tins | vins / tins |  vint / tint  |
+| Pl | vînmes / tînmes | vîntes / tîntes | vinrent / tinrent |
+
+* -oir
+
+siehe: Unregelmässige Verben
+
+
 ### Imparfait
 
 Das Imparfait wird verwendet, wenn man etwas in der Vergangenheit beschreibt.
@@ -282,7 +331,7 @@ Das participe présent wird jedoch verwendet, um folgendes auszudrücken:
 
 # Todo:
 
-* Subjonctif vs Indikativ
 * Alle Pronomen
 * Verneinungen
-* Futur simple
+* Subjonctif vs Indikativ
+* Nomen
