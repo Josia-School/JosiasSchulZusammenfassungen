@@ -149,6 +149,10 @@ Zur Bildung nimmt man den Infinitiv (-er Verben) oder entfernt das -e (-re Verbe
 * Bei Reflexiven Verben, wir ein - und das Reflexivpronomen angehängt. (lève-toi)
     * aber: Bei Verneinungen gilt das nicht. (ne te lève pas)
 
+* Wenn mehrere Pronomen verwendet werden, muss man:
+    * beim bejahten Imperativ die Reihenfolge **umgekehrt** werden und alles mit Bindestrichen verbunden werden.
+    * beim verneinten Imperativ die Reihenfolge **befolgt** werden
+
 ## Conditionnel
 
 ### Conditionnel présent
@@ -312,6 +316,10 @@ Der Possesivbegleiter steht immer direkt vor einem Nomen. Es ist wie ein Adjekti
 Mit dem Possesivpronomen kann man ein Nomen ersezten. (Gleich wie im Deutschen.)
 
 
+## Relativpronomen
+
+
+
 
 # Satz
 
@@ -373,7 +381,7 @@ Das participe présent wird jedoch verwendet, um folgendes auszudrücken:
 
 # Todo:
 
-* Alle Pronomen
+* Relativpronomen
 * Verneinungen
 * Subjonctif vs Indikativ
 * Nomen
