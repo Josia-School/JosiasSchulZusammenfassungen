@@ -268,6 +268,48 @@ Ausnahmen:
 
 # Pronomen
 
+## Reihenfolge
+
+Wenn man merhere Pronomen verwendet, muss folgende Reihenfolge eingehalten werden:
+
+1. me; te; se; nous; vous; se
+2. le / la; les
+3. lui; leur
+4. y
+5. en
+
+
+## Demonstrativpronomen
+
+|    |   Demonstrativbegleiter  |  Demonstrativpronomen einfach  |   Demonstrativpronomen zusammengesetzt   |
+|----|:-----:|:----:|:------:|
+| Maskulin Sg |  ce / cet | celui |  celui-ci / celui-là  |
+| Maskulin Pl |  ces | ceux |  ceux-ci / ceux-là  |
+| Feminin Sg | cette | celle | celle-ci / celle-là |
+| Feminin Pl | ces | celles | celles-ci / celles-là |
+| unbestimmt | - | ce | ceci / cela / ça |
+
+Der Demonstrativbegleiter steht immer direkt vor einem Nomen. Es ist wie ein Adjektiv.
+
+Das einfache Demonstrativpronomen steht entweder direkt vor einem Relativsatz (qui, que, dont, où) oder wird mit einer Präposition als Ergänzung verwendet. (ersetzt Nomen)
+
+Das zusammengesetzte Demonstrativpronomen wird verwendet, wenn es "allein" steht. -ci bedeutet hier, -là bedeutet dort. (ersetzt Nomen)
+
+
+## Possesivpronomen
+
+|    |   Possesivbegleiter  |  Possesivpronomen  |
+|----|:-----:|:----:|:------:|
+| Maskulin Sg |  mon / ton / son |  mien / tien / sien  |
+| Maskulin Pl |  mes / tes / ses |  miens / tiens / siens  |
+| Feminin Sg | ma (mon) / ta (ton) / sa (son) | mienne / tienne / sienne |
+| Feminin Pl | mes / tes / ses | miennes / tiennes / siennes |
+| Gruppe (Plural) Sg | notre / votre / leur | nôtre / vôtre / leur |
+| Gruppe (Plural) Pl | nos / vos / leurs | nôtres / vôtres / leurs |
+
+Der Possesivbegleiter steht immer direkt vor einem Nomen. Es ist wie ein Adjektiv.
+
+Mit dem Possesivpronomen kann man ein Nomen ersezten. (Gleich wie im Deutschen.)
 
 
 
