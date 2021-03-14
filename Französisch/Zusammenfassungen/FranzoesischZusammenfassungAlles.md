@@ -302,8 +302,8 @@ Das zusammengesetzte Demonstrativpronomen wird verwendet, wenn es "allein" steht
 
 ## Possesivpronomen
 
-|    |   Possesivbegleiter  |  Possesivpronomen  | 
-|----|:-----:|:----:|:------:|
+|    |   Possesivbegleiter  |  Possesivpronomen  |
+|----|:-----:|:----:|
 | Maskulin Sg |  mon / ton / son |  mien / tien / sien  |
 | Maskulin Pl |  mes / tes / ses |  miens / tiens / siens  |
 | Feminin Sg | ma (mon) / ta (ton) / sa (son) | mienne / tienne / sienne |
