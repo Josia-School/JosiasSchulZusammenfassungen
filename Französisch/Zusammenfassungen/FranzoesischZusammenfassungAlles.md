@@ -398,12 +398,13 @@ Das participe présent wird jedoch verwendet, um folgendes auszudrücken:
 * Kausalsätze (**Étant** malade il nest pas venue. *anstatt "Comme il était"*)
 
 
-## le passif
+# le passif
 
-### Verwendung:
+## Verwendung
 Wird wie im Deutschen verwendet. (wenn Objekt wichtiger ist)
 
-### Bildung:
+
+## Bildung
 
 -> être (konjugiert mit Zeitform des Hauptsatzes) + participe passé (angeglichen) (+ par)
 
@@ -421,6 +422,18 @@ Manche Verben (Gefühle / Begleitung) brauchen "de" anstatt "par":
 * précédé de
 
 
+## Passiversatz
+
+Wenn der Satz im passiv nicht / nur schwer gebildet werden kann, kann man ausweichen:
+
+* kein Subjekt:
+    * Après le repas, **on** a dansé.
+
+* unlebendiges Subjekt:
+    * Ce mot ne **s’emploie** presque plus.
+
+* lebendiges Subjekt:
+    * Il risque **de se faire** renvoyer.
 
 
 # Todo:
