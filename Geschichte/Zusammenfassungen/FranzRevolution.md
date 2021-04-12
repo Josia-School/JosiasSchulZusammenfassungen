@@ -30,7 +30,7 @@ Jeder Stand hat eine Stimme (3 Stimmen total) -> Dritte Stand will pro Kopf -> K
 
 
 Dritter Stand versammelt sich im Ballhaus und erklärt sich zur **National**versammlung.  
--> Ballhausschwur: Schwören erst zu gehen, wenn Versammlung da ist. (gleiche Rechte für Alle)
+-> Ballhausschwur: Schwören erst zu gehen, wenn Verfassung da ist. (gleiche Rechte für Alle)
 
 König befiehlt dass dritter Stand geht. Dritter Stand weigert sich.
 
