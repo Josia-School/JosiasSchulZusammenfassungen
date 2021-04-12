@@ -93,7 +93,7 @@ Maximilien de Robespierre ist dafür, mit Terror für Republik zu kämpfen.
 
 Adelige fliehen und wollen Revolution rückgängig machen.
 
-König flieht auch und entdeck. Er wird nach Paris zurückgebracht. Alle ärgen sich über König
+König flieht und wird entdeck. Er wird nach Paris zurückgebracht. Alle ärgen sich über König
 
 Extreme Revolutionäre wollen König absetzten -> Demo -> Wird aber mit Gewalt aufgelöst.
 
