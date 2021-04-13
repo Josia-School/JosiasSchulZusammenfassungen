@@ -132,7 +132,7 @@ Es wird gebiltet mit der konjugierten Form von "aller" und dem Infinitiv des ent
 
 Wird für Handlungen in der Zukunft verwendet.
 
-Zur Bildung nimmt man den Infinitiv (-er Verben) oder entfernt das -e (-re Verben). Daran hängt man die Entsprechende Endung:
+Zur Bildung nimmt man den Infinitiv (-er Verben) oder entfernt das -e (-re Verben) (être -> ser-; avoir -> aur-). Daran hängt man die Entsprechende Endung:
 
 |    |   1.  |  2.  |   3.   |
 |----|:-----:|:----:|:------:|
